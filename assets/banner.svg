@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0a1020"/><stop offset="0.5" stop-color="#0c2a3d"/><stop offset="1" stop-color="#0a1020"/>
+  </linearGradient>
+  <linearGradient id="tg" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#93c5fd"/><stop offset="1" stop-color="#5eead4"/>
+  </linearGradient>
+  <filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+  .role{opacity:0;animation:cycle 12s infinite}
+  .r1{animation-delay:3s} .r2{animation-delay:6s} .r3{animation-delay:9s}
+  @keyframes cycle{0%{opacity:0}4%{opacity:1}22%{opacity:1}26%{opacity:0}100%{opacity:0}}
+  .pulse{animation:pulse 5s ease-in-out infinite;transform-origin:center;transform-box:fill-box}
+  .pulse2{animation:pulse 7s ease-in-out infinite;transform-origin:center;transform-box:fill-box}
+  @keyframes pulse{0%,100%{opacity:.25;transform:scale(1)}50%{opacity:.7;transform:scale(1.08)}}
+  .cursor{animation:blink 1s steps(1) infinite}
+  @keyframes blink{0%,50%{opacity:1}50.01%,100%{opacity:0}}
+  .float{animation:float 4s ease-in-out infinite}
+  @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+</style>
+<rect width="1000" height="300" rx="18" fill="url(#bg)"/>
+<circle class="pulse" cx="870" cy="90" r="70" fill="none" stroke="#5eead4" stroke-width="1.5"/>
+<circle class="pulse2" cx="870" cy="90" r="44" fill="none" stroke="#60a5fa" stroke-width="1.5"/>
+<circle class="pulse2" cx="120" cy="215" r="80" fill="none" stroke="#60a5fa" stroke-width="1.5"/>
+<circle class="pulse" cx="120" cy="215" r="50" fill="none" stroke="#5eead4" stroke-width="1.5"/>
+<text x="500" y="62" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" letter-spacing="8" fill="#7dd3fc">SOFTWARE ENGINEER</text>
+<text x="500" y="140" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="68" font-weight="800" fill="url(#tg)" filter="url(#glow)">Ali Abdullah</text>
+<text class="role r0" x="500" y="196" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="22" font-weight="600" fill="#e2e8f0">Full-Stack Developer (MERN)</text><text class="role r1" x="500" y="196" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="22" font-weight="600" fill="#e2e8f0">C++ and Object-Oriented Programming</text><text class="role r2" x="500" y="196" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="22" font-weight="600" fill="#e2e8f0">Robotics and Embedded Systems</text><text class="role r3" x="500" y="196" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="22" font-weight="600" fill="#e2e8f0">Data Structures and Algorithms</text>
+<g class="float"><g><rect x="308.0" y="214" width="55" height="34" rx="9" fill="#60a5fa" fill-opacity="0.16" stroke="#60a5fa" stroke-opacity="0.75"/><text x="335.5" y="236.0" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="700" fill="#60a5fa">C++</text></g><g><rect x="377.0" y="214" width="64" height="34" rx="9" fill="#5eead4" fill-opacity="0.16" stroke="#5eead4" stroke-opacity="0.75"/><text x="409.0" y="236.0" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="700" fill="#5eead4">MERN</text></g><g><rect x="455.0" y="214" width="90" height="34" rx="9" fill="#c4b5fd" fill-opacity="0.16" stroke="#c4b5fd" stroke-opacity="0.75"/><text x="500.0" y="236.0" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="700" fill="#c4b5fd">Arduino</text></g><g><rect x="559.0" y="214" width="64" height="34" rx="9" fill="#fbbf24" fill-opacity="0.16" stroke="#fbbf24" stroke-opacity="0.75"/><text x="591.0" y="236.0" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="700" fill="#fbbf24">SFML</text></g><g><rect x="637.0" y="214" width="55" height="34" rx="9" fill="#f472b6" fill-opacity="0.16" stroke="#f472b6" stroke-opacity="0.75"/><text x="664.5" y="236.0" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="700" fill="#f472b6">DSA</text></g></g>
+<text x="500" y="282" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="2" fill="#94a3b8">FAST-NUCES LAHORE  |  BS SOFTWARE ENGINEERING  |  OPEN TO INTERNSHIPS</text>
+</svg>

@@ -1,56 +1,75 @@
-<h1 align="center">Hi, I'm Ali Abdullah 👋</h1> <p align="center"> Software Engineering student at <b>FAST-NUCES Lahore</b><br> Full-stack developer, C++ programmer and robotics competitor </p> <p align="center"> <img src="https://img.shields.io/badge/FAST--NUCES-BS_Software_Engineering-0a66c2?style=for-the-badge" alt="FAST-NUCES"> <img src="https://img.shields.io/badge/Year-2nd-success?style=for-the-badge" alt="Year"> <img src="https://img.shields.io/badge/Open_to-Internships-brightgreen?style=for-the-badge" alt="Open to internships"> </p>
-🎯 About Me
+<div align="center">
 
-I'm a second-year BS Software Engineering student at FAST-NUCES Lahore, combining a software engineering degree with hands-on experience in robotics, mechatronics and embedded systems. I've built full-stack web applications with the MERN stack, a complete social media application in C++ using object-oriented design, and a retro racing game in SFML.
+<img src="assets/banner.svg" alt="Ali Abdullah - Software Engineer" width="100%">
 
-I'm now deepening my data structures and algorithms through coursework and daily LeetCode practice, with the goal of pursuing higher studies abroad and building a career in software engineering.
+<br>
 
-I'm open to internship opportunities in software development. Feel free to reach out.
+🎓 **2nd Year BS Software Engineering** &nbsp;|&nbsp; 💼 **Open to Internships** &nbsp;|&nbsp; 📍 **Lahore, Pakistan**
 
-🏆 Experience & Achievements
+[LinkedIn](https://www.linkedin.com/in/ali-abdullah-790991381) &nbsp;•&nbsp; [Email](mailto:x.ali.abdullah176@gmail.com) &nbsp;•&nbsp; [LeetCode Repo](https://github.com/aliabdullah-se/leetcode-solutions)
 
-Robotics & Mechatronics Competitions
+</div>
 
-Participated in numerous robotics and mechatronics competitions and won multiple awards at leading universities including UET, UCP and COMSATS
+---
 
-Professional Experience
+## 🎯 Focus Areas
 
-Hands-on professional experience in mechatronics, Arduino, microcontrollers and circuit design
+<img src="assets/focus.svg" alt="Focus areas" width="100%">
 
-Certifications
+---
 
-Microsoft Office Specialist (MOS), Microsoft
-Professional certifications in mechatronics, Arduino, microcontrollers and circuit design
-🛠️ Tech & Tools
+## 👨‍💻 About
 
-Languages & Core
+I'm a second-year Software Engineering student at **FAST-NUCES Lahore** combining a software degree with hands-on robotics and embedded-systems experience. I've built full-stack MERN applications, a complete social media application in C++ using object-oriented design, and a retro 1-player and 2-player racing game in SFML.
 
-<p> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge" alt="Assembly"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> </p>
+I'm deepening my data structures and algorithms through coursework and daily LeetCode practice, aiming for higher studies abroad and a career in software engineering.
 
-Full-Stack (MERN)
+```text
+learn  ->  build  ->  compete  ->  repeat
+```
 
-<p> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> </p>
+**I'm open to software development internships. Let's talk.**
 
-Embedded, Hardware & Tools
+---
 
-<p> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"> </p>
-📂 Featured Projects
-Project	Description	Stack
-Connectify-New	Full social media application built from scratch using object-oriented design, developed for FAST-NUCES	C++
-Retro Racing Game	Retro-style racing game with 1-player and 2-player modes	C++, SFML
-MERN Web Applications	Full-stack web applications built with the MERN stack	MongoDB, Express, React, Node.js
-Arduino-RC-Car-Project	Adaptive cruise-controlled RC car using Arduino Uno, motor drivers and Bluetooth modules	C++, Arduino
-leetcode-solutions	LeetCode solutions organized by topic, with approach and complexity notes	C++
-cs-fundamentals-rebuild	Building strong programming fundamentals and OOP concepts as a path toward data structures	C++
-Computer-Organization-and-Assembly-Language-COAL-	COAL coursework in Nasm (Intel 8088) using DOSBox and the AFD debugger	Assembly
-🌱 Currently Working On
-🔗 Linked lists, stacks and queues for my Data Structures course
-💻 Daily LeetCode practice following the NeetCode roadmap
-🎯 Seeking software development internship opportunities
-📊 GitHub Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=aliabdullah-se&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"> </p>
-📫 Let's Connect
+## 🏆 Experience and Achievements
 
-I'm open to internships and collaborations.
+| Area | Details |
+|------|---------|
+| 🤖 **Robotics and Mechatronics Competitions** | Multiple awards at leading universities including **UET**, **UCP** and **COMSATS** <br> *(add: competition name, position, year)* |
+| 🛠️ **Professional Experience** | Mechatronics, Arduino, microcontrollers and circuit design <br> *(add: organization, role, duration)* |
+| 📜 **Certifications** | Microsoft Office Specialist (MOS), Microsoft <br> Mechatronics, Arduino, microcontrollers and circuit design <br> *(add: certificate names and issuers)* |
 
-<p> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:x.ali.abdullah176@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </p> <p align="center"><i>Consistency over intensity. Building one commit at a time.</i></p>
+---
+
+## 🛠️ Technical Stack
+
+<img src="assets/stack.svg" alt="Technical stack" width="100%">
+
+---
+
+## 📂 Featured Projects
+
+| # | Project | Highlights |
+|---|---------|------------|
+| 01 | [**Connectify-New**](https://github.com/aliabdullah-se/Connectify-New) | Full social media application built from scratch with OOP in C++ |
+| 02 | **Retro Racing Game** | 1-player and 2-player racing game - C++ - SFML |
+| 03 | **MERN Web Applications** | Full-stack apps - MongoDB - Express - React - Node.js |
+| 04 | [**Arduino-RC-Car-Project**](https://github.com/aliabdullah-se/Arduino-RC-Car-Project) | Adaptive cruise-controlled RC car - Arduino Uno - Bluetooth |
+| 05 | [**leetcode-solutions**](https://github.com/aliabdullah-se/leetcode-solutions) | C++ solutions organized by topic with complexity notes |
+| 06 | [**cs-fundamentals-rebuild**](https://github.com/aliabdullah-se/cs-fundamentals-rebuild) | Programming fundamentals and OOP as a path to data structures |
+| 07 | [**COAL**](https://github.com/aliabdullah-se/Computer-Organization-and-Assembly-Language-COAL-) | Nasm - Intel 8088 - DOSBox - AFD debugger |
+
+---
+
+## 🌱 Currently
+
+- 🔗 Linked lists, stacks and queues for Data Structures
+- 💻 Daily LeetCode practice (NeetCode roadmap)
+- 🎯 Seeking a software development internship
+
+---
+
+<img src="assets/strengths.svg" alt="Core strengths" width="100%">
+
+<img src="assets/footer.svg" alt="Footer" width="100%">
